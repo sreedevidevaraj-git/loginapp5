@@ -74,6 +74,7 @@ const Register=()=>{
                             <option value="1">Ernakulam</option>
                             <option value="2">Kottayam</option>
                             <option value="3">Kollam</option>
+                            <option value="4">Patanamtitta</option>
                         </select>
                     </td>
                 </tr>
